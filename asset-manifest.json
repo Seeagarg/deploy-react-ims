@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/deploy-react-ims/static/css/main.5e22f825.css",
-    "main.js": "/deploy-react-ims/static/js/main.d1d7a3db.js",
+    "main.css": "/deploy-react-ims/static/css/main.9dabddda.css",
+    "main.js": "/deploy-react-ims/static/js/main.92c9a7bf.js",
     "static/js/787.2e461eb7.chunk.js": "/deploy-react-ims/static/js/787.2e461eb7.chunk.js",
     "static/media/ifl.png": "/deploy-react-ims/static/media/ifl.44facbcf3331acbba28f.png",
     "static/media/logo.svg": "/deploy-react-ims/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/deploy-react-ims/index.html",
-    "main.5e22f825.css.map": "/deploy-react-ims/static/css/main.5e22f825.css.map",
-    "main.d1d7a3db.js.map": "/deploy-react-ims/static/js/main.d1d7a3db.js.map",
+    "main.9dabddda.css.map": "/deploy-react-ims/static/css/main.9dabddda.css.map",
+    "main.92c9a7bf.js.map": "/deploy-react-ims/static/js/main.92c9a7bf.js.map",
     "787.2e461eb7.chunk.js.map": "/deploy-react-ims/static/js/787.2e461eb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e22f825.css",
-    "static/js/main.d1d7a3db.js"
+    "static/css/main.9dabddda.css",
+    "static/js/main.92c9a7bf.js"
   ]
 }
